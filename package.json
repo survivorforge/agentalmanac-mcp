@@ -1,6 +1,6 @@
 {
   "name": "agentalmanac-mcp",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "mcpName": "io.github.survivorforge/agentalmanac-mcp",
   "description": "MCP server for searching the Agent Almanac — the public catalog of 9,000+ Model Context Protocol servers. Find, install, and discover MCP servers from inside Claude Desktop, Cursor, Continue, Zed, or any MCP-aware agent.",
   "license": "MIT",
