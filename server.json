@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.survivorforge/agentalmanac-mcp",
+  "description": "MCP server for searching the Agent Almanac catalog of 9,000+ MCP servers. Find, inspect, and install MCP servers from inside any MCP-aware agent (Claude Desktop, Cursor, Continue, Zed).",
+  "repository": {
+    "url": "https://github.com/survivorforge/agentalmanac-mcp",
+    "source": "github"
+  },
+  "version": "0.1.1",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "agentalmanac-mcp",
+      "version": "0.1.1",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
